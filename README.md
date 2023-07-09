@@ -37,7 +37,7 @@ Where to find me:
 <a target="_blank" href="https://twitter.com/khozinnazar"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <img src="https://img.shields.io/badge/-kranel_argonaft-12100E?style=for-the-badge&logo=Discord&logoColor=white"></img>
 
-<hr>
+#
     
 # <img src="https://media.giphy.com/media/d3hGuic6x6e5mASmKR/giphy.gif" width="30"> Technologies and tools
 
@@ -60,7 +60,7 @@ Had experience in working with:
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
 
-<hr>
+#
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
@@ -85,14 +85,12 @@ Had experience in working with:
   </div>
 </p>
 
-<hr>
+#
 
 # <img src="https://media.giphy.com/media/o9KykZbrhepqKjqXxe/giphy.gif" width="25"> GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kranel-argonavt&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15)
-
-<hr>
-
+![trophy](https://github-profile-trophy.vercel.app/?username=kranel-argonavt&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=10)
+#
 ![](https://komarev.com/ghpvc/?username=kranel-argonavt&style=flat-square&label=Profile_Views)
 
 
