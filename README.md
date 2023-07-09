@@ -1,8 +1,28 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Nazar;I'm+a+Game+Developer);&center=true&width=500&height=50"></a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Nazar;I'm+a+Game+Developer);&center=true&width=500&height=40"></a>
 </p>
 
 # <img src="https://media.giphy.com/media/3o7btMjNUTJFUhsnrG/giphy.gif" width="30"> About me
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI1MW1qcWxyMHEzd2JjZzA5ZHUxNW1tcWFhM3M1eGFkOHgxdTA2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TjjrLK3XZkdgJRvoZJ/giphy.gif" width="210" src="img/Fire.gif" />
+
 Hello! I am a game developer with enthusiasm and passion. 
 Creating games is the embodiment of my creativity and effort. 
 On my GitHub profile, you'll find my projects where I showcase my skills and technical acumen. 
@@ -16,6 +36,8 @@ Where to find me:
 <a target="_blank" href="https://www.linkedin.com/in/nazar-khozin-397993282/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/khozinnazar"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <img src="https://img.shields.io/badge/-kranel_argonaft-12100E?style=for-the-badge&logo=Discord&logoColor=white"></img>
+
+<hr>
     
 # <img src="https://media.giphy.com/media/d3hGuic6x6e5mASmKR/giphy.gif" width="30"> Technologies and tools
 
@@ -37,6 +59,9 @@ Had experience in working with:
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
+
+<hr>
+
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <p align=center>
@@ -60,9 +85,14 @@ Had experience in working with:
   </div>
 </p>
 
+<hr>
+
 # <img src="https://media.giphy.com/media/o9KykZbrhepqKjqXxe/giphy.gif" width="25"> GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=kranel-argonavt&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15)
 
-![](https://komarev.com/ghpvc/?username=kranel-argonavt&style=flat-square&label=Views)
-![](https://badges.pufler.dev/visits/kranel-argonavt/kranel-argonavt?color=black&logo=github&style=flat-square)
+<hr>
+
+![](https://komarev.com/ghpvc/?username=kranel-argonavt&style=flat-square&label=Profile_Views)
+
+
