@@ -60,8 +60,9 @@ Had experience in working with:
   </div>
 </p>
 
+# <img src="https://media.giphy.com/media/o9KykZbrhepqKjqXxe/giphy.gif" width="25"> GitHub Trophies
 
+![trophy](https://github-profile-trophy.vercel.app/?username=kranel-argonavt&theme=discord&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15)
 
-# <img src="https://media.giphy.com/media/o9KykZbrhepqKjqXxe/giphy.gif" width="30"> GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kranel-argonavt&theme=discord&no-frame=true&no-bg=false)](https://github.com/kranel-argonavt/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=kranel-argonavt&style=flat-square&label=Views)
+![](https://badges.pufler.dev/visits/kranel-argonavt/kranel-argonavt?color=black&logo=github&style=flat-square)
