@@ -53,16 +53,15 @@ Had experience in working with:
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranel-argonavt&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-
 <details>
   <summary>More stats</summary>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kranel-argonavt&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</details>
-
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kranel-argonavt&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</details>  
   </div>
 </p>
 
-<hr>
 
 
-# <img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" width="30"> Highlight Projects
+# <img src="https://media.giphy.com/media/o9KykZbrhepqKjqXxe/giphy.gif" width="30"> GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kranel-argonavt&theme=discord&no-frame=true&no-bg=false)](https://github.com/kranel-argonavt/github-profile-trophy)
